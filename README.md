@@ -22,7 +22,6 @@
 - [About](#-about)
 - [Features](#-features)
 - [How It Works](#-how-it-works)
-- [Screenshots](#-screenshots)
 - [Installation](#-installation)
   - [Prerequisites](#prerequisites)
   - [Step 1: Clone the Repository](#step-1-clone-the-repository)
@@ -108,17 +107,7 @@ Whether it's a public channel, a private invite-only group, or a restricted chan
 
 ---
 
-## 📸 Screenshots
 
-> _Coming soon — feel free to contribute screenshots by opening a PR!_
-
-<!--
-Add screenshots here:
-![Download Progress](screenshots/progress.png)
-![Final Summary](screenshots/summary.png)
--->
-
----
 
 ## 🚀 Installation
 
