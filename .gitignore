@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Telethon sessions (NEVER commit these!)
+*.session
+*.session-journal
+
+# Bot data
+allowed_users.json
+trial_users.json
+downloads/
+data/
+bot.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.dbvvvvv
